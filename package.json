@@ -2,7 +2,7 @@
   "name": "capusta_react_team_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anatoliyyakovenko.github.io/Kapusta/",
+  "homepage": "https://AnatoliyYakovenko/Kapusta/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
