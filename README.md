@@ -1,5 +1,3 @@
-# Kapusta App
-
 <p align="center">
   <img src="https://kapusta-app.netlify.app/static/media/logo.a5e2684a.svg" alt="kapusta wallet app logo" />
 </p>
